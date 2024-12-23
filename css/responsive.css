@@ -1,0 +1,25 @@
+/********** responsive **********/
+@media (max-width:1280px){
+h2{font-size:40px;}
+.cont-center h2{font-size:30px;line-height: 1.1;}
+p{font-size:16px;line-height:26px;}
+.topheading .nav-link {font-size: 12px;}
+.carbon-btn.hvr-radial-in {font-size: 12px;}
+}
+/********** responsive 1024 **********/
+@media (max-width: 1024px) {
+
+}
+
+
+@media (max-width: 767px){
+.bg-holder{padding:2rem 1rem}
+.cont-center {padding:2rem 1rem;}
+.innerbanner img {
+    min-height: 200px;
+    max-height: 200px;
+}
+
+}
+
+

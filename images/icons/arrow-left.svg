@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65.249" height="65.624" viewBox="0 0 65.249 65.624">
+  <g id="Component_31_1" data-name="Component 31 – 1" transform="translate(7.625)">
+    <ellipse id="Ellipse_354" data-name="Ellipse 354" cx="22" cy="5" rx="22" ry="5" transform="translate(3 45)" opacity="0.1"/>
+    <g id="Component_28_1" data-name="Component 28 – 1">
+      <g id="Component_29_1" data-name="Component 29 – 1">
+        <g id="Component_30_1" data-name="Component 30 – 1">
+          <g id="Rectangle_1073" data-name="Rectangle 1073" fill="#fafafa" stroke="#c1c6c8" stroke-width="2">
+            <rect width="50" height="50" rx="25" stroke="none"/>
+            <rect x="1" y="1" width="48" height="48" rx="24" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Symbol_84" data-name="Symbol 84" transform="translate(730.1 -663) rotate(90)">
+      <path id="Path_36" data-name="Path 36" d="M6.7,8.1,2,3.4,3.4,2,6.7,5.3,10,2l1.4,1.4Z" transform="translate(681 700)" fill="#1a2630"/>
+    </g>
+  </g>
+</svg>
